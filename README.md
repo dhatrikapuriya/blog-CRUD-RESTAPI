@@ -28,7 +28,8 @@ A REST API developed using Django Rest Framework for CRUD operations on a blog a
    http://127.0.0.1:8000/comments/<id>
    ```
    User can delete or update their own comments only.
-   
+ 
+ 
 User can log in using the button on the right most top corner.
 For creating new user, visit ``` http://127.0.0.1:8000/admin ```. 
 Login credentials are 
@@ -36,3 +37,6 @@ Login credentials are
 username : admin
 password : admin12345
 ```
+## Postman Collection
+[Postman Collection link](https://www.getpostman.com/collections/9c8ded04ec9fb8629162)
+
