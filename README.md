@@ -1,7 +1,7 @@
 # blog-CRUD-RESTAPI
 A REST API developed using Django Rest Framework for CRUD operations on a blog application.
 
-## Endpoints
+## Resource points
 
 1. GET list of users
    ```
